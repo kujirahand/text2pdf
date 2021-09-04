@@ -1,0 +1,56 @@
+body {
+  font-size: 1.3em;
+  line-height: 1.3;
+}
+
+p {
+  font-size: 1.3em;
+  line-height: 1.3;
+}
+
+li {
+  font-size: 1.3em;
+  line-height: 1.3;
+}
+
+
+code {
+  font-weight: bold;
+  background-color: #f0f0f0;
+  padding: 0.1em;
+}
+
+p > code {
+  font-weight: bold;
+  background-color: #f0f0f0;
+  padding: 0.1em;
+  border-bottom: 1px solid gray;
+}
+
+blockquote {
+  font-size: 0.9em;
+  background-color: #f4f4f4;
+  border-left: 0.3em #c0c0c0 solid;
+  padding: 0.5em;
+  margin-left: 0.5em;
+}
+
+h1 {
+  font-size: 1.5em;
+  border-bottom: 0.1em gray solid;
+  background-color: #f0f0f0;
+  padding: 0.4em;
+}
+
+h2 {
+  font-size: 1.3em;
+  background-color: #f0f0f0;
+  padding: 0.5em;
+}
+
+h3 {
+  font-size: 1.3em;
+  background-color: #f0f0f0;
+  padding: 0.5em;
+}
+
